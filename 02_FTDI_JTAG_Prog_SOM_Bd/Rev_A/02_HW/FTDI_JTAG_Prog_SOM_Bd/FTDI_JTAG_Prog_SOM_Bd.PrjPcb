@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=Project Outputs for FTDI_JTAG_Prog_SOM_Bd
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -125,6 +125,135 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document6]
+DocumentPath=CAMtastic1.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for FTDI_JTAG_Prog_SOM_Bd\Design Rule Check - FTDI_JTAG_Prog_SOM_Bd.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for FTDI_JTAG_Prog_SOM_Bd\NC Drill\FTDI_JTAG_Prog_SOM_Bd.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for FTDI_JTAG_Prog_SOM_Bd\Gerber\FTDI_JTAG_Prog_SOM_Bd.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for FTDI_JTAG_Prog_SOM_Bd\Gerber\FTDI_JTAG_Prog_SOM_Bd.G1
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for FTDI_JTAG_Prog_SOM_Bd\Gerber\FTDI_JTAG_Prog_SOM_Bd.G2
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for FTDI_JTAG_Prog_SOM_Bd\Gerber\FTDI_JTAG_Prog_SOM_Bd.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for FTDI_JTAG_Prog_SOM_Bd\Gerber\FTDI_JTAG_Prog_SOM_Bd.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for FTDI_JTAG_Prog_SOM_Bd\Gerber\FTDI_JTAG_Prog_SOM_Bd.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for FTDI_JTAG_Prog_SOM_Bd\Gerber\FTDI_JTAG_Prog_SOM_Bd.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for FTDI_JTAG_Prog_SOM_Bd\Gerber\FTDI_JTAG_Prog_SOM_Bd.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for FTDI_JTAG_Prog_SOM_Bd\Gerber\FTDI_JTAG_Prog_SOM_Bd.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for FTDI_JTAG_Prog_SOM_Bd\Gerber\FTDI_JTAG_Prog_SOM_Bd.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for FTDI_JTAG_Prog_SOM_Bd\Gerber\FTDI_JTAG_Prog_SOM_Bd.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for FTDI_JTAG_Prog_SOM_Bd\Gerber\FTDI_JTAG_Prog_SOM_Bd.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for FTDI_JTAG_Prog_SOM_Bd\Gerber\FTDI_JTAG_Prog_SOM_Bd.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for FTDI_JTAG_Prog_SOM_Bd\Gerber\FTDI_JTAG_Prog_SOM_Bd.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for FTDI_JTAG_Prog_SOM_Bd\Gerber\FTDI_JTAG_Prog_SOM_Bd.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for FTDI_JTAG_Prog_SOM_Bd\Gerber\FTDI_JTAG_Prog_SOM_Bd.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for FTDI_JTAG_Prog_SOM_Bd\Gerber\FTDI_JTAG_Prog_SOM_Bd.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for FTDI_JTAG_Prog_SOM_Bd\Gerber\FTDI_JTAG_Prog_SOM_Bd.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for FTDI_JTAG_Prog_SOM_Bd\Gerber\FTDI_JTAG_Prog_SOM_Bd.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for FTDI_JTAG_Prog_SOM_Bd\Gerber\FTDI_JTAG_Prog_SOM_Bd.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for FTDI_JTAG_Prog_SOM_Bd\NC Drill\FTDI_JTAG_Prog_SOM_Bd.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for FTDI_JTAG_Prog_SOM_Bd\Gerber\FTDI_JTAG_Prog_SOM_Bd.REP
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for FTDI_JTAG_Prog_SOM_Bd\Gerber\FTDI_JTAG_Prog_SOM_Bd.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for FTDI_JTAG_Prog_SOM_Bd\NC Drill\FTDI_JTAG_Prog_SOM_Bd.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for FTDI_JTAG_Prog_SOM_Bd\Pick Place\Pick Place for FTDI_JTAG_Prog_SOM_Bd.csv
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for FTDI_JTAG_Prog_SOM_Bd\Pick Place\Pick Place for FTDI_JTAG_Prog_SOM_Bd.txt
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -172,7 +301,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for FTDI_JTAG_Prog_SOM_Bd
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs

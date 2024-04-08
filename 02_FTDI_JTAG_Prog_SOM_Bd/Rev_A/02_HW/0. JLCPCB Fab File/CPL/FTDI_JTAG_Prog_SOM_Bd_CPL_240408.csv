@@ -1,0 +1,65 @@
+Altium Designer Pick and Place Locations
+C:\Onedrive\04_Development\01_Project\Active\00_Auxiliary_Bd\Proj-Auxiliary_Boards\02_FTDI_JTAG_Prog_SOM_Bd\Rev_A\02_HW\FTDI_JTAG_Prog_SOM_Bd\Project Outputs for FTDI_JTAG_Prog_SOM_Bd\Pick Place\Pick Place for FTDI_JTAG_Prog_SOM_Bd.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       08-04-24
+Time:       21:16
+Revision:   db391a7348f1d86f77805720e9b8844f910095c0
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"X300","S2D12.000000B20F30T(12MHz)","TopLayer","OSC_SMD_2.5x2.0_(SCTF)","44.5000","8.3000","180","3.3V~3.3V -40﹎~+85﹎ 20mA ▽20ppm 12MHz SMD2520-4P  Oscillators ROHS"
+"U301","93LC56B-I/SN","TopLayer","IC_SOIC-8_(4.90x3.90mm)","74.0000","6.0000","90","EEPROM Memory IC 2Kbit Microwire 2 MHz 8-SOIC"
+"U300","FT2232HL-REEL","TopLayer","IC_LQFP-64-0.5mm","31.2500","11.2500","180","USB Bridge, USB to UART,FIFO USB 2.0 UART Interface 64-LQFP (10x10)"
+"R320","22R/1608","TopLayer","RES_1608_(0603_inch)","39.6700","7.5000","180","RES_22R/1608/0.1W"
+"R319","12K/1608","TopLayer","RES_1608_(0603_inch)","70.0000","4.0000","90","RES_12K/1608/0.1W"
+"R318","12K/1608","TopLayer","RES_1608_(0603_inch)","72.2500","1.2500","180","RES_12K/1608/0.1W"
+"R317","680R/2012","TopLayer","RES_2012_(0805_inch)","77.7500","19.7500","90","RES_680R/2012/0.125W"
+"R316","2.2K/1608","TopLayer","RES_1608_(0603_inch)","75.3500","1.2500","180","RES_2.2K/1608/0.1W"
+"R315","12K/1608","TopLayer","RES_1608_(0603_inch)","78.0000","4.2500","90","RES_12K/1608/0.1W"
+"R314","1M/1608/0.1W","TopLayer","RES_1608_(0603_inch)","62.1200","15.2500","180","RES_1M/1608/0.1W"
+"R313","12K/1608","TopLayer","RES_1608_(0603_inch)","39.6700","9.2500","180","RES_12K/1608/0.1W"
+"R312","100K/1608","TopLayer","RES_1608_(0603_inch)","54.2500","12.3500","90","RES_100K/1608/0.1W"
+"R311","5.1K/1608","TopLayer","RES_1608_(0603_inch)","62.1200","20.5000","0","RES_5.1K/1608/0.1W"
+"R310","5.1K/1608","TopLayer","RES_1608_(0603_inch)","62.1200","18.7500","0","RES_5.1K/1608/0.1W"
+"R309","22R/1608","TopLayer","RES_1608_(0603_inch)","15.2500","5.5000","180","RES_22R/1608/0.1W"
+"R308","22R/1608","TopLayer","RES_1608_(0603_inch)","15.2500","7.2500","180","RES_22R/1608/0.1W"
+"R307","510R/1608","TopLayer","RES_1608_(0603_inch)","46.8500","20.0000","180","RES_510R/1608/0.1W"
+"R306","510R/1608","TopLayer","RES_1608_(0603_inch)","46.8500","17.7500","180","RES_510R/1608/0.1W"
+"R305","100K/1608","TopLayer","RES_1608_(0603_inch)","56.0000","12.3500","270","RES_100K/1608/0.1W"
+"R304","22R/1608","TopLayer","RES_1608_(0603_inch)","15.2500","9.0000","180","RES_22R/1608/0.1W"
+"R303","22R/1608","TopLayer","RES_1608_(0603_inch)","15.2500","10.7500","180","RES_22R/1608/0.1W"
+"R302","22R/1608","TopLayer","RES_1608_(0603_inch)","15.2500","12.5000","180","RES_22R/1608/0.1W"
+"R301","22R/1608","TopLayer","RES_1608_(0603_inch)","15.2500","14.2500","180","RES_22R/1608/0.1W"
+"R300","22R/1608","TopLayer","RES_1608_(0603_inch)","15.2500","16.0000","180","RES_22R/1608/0.1W"
+"LED302","BLUE/2012","TopLayer","LED_MHT170RGBCT_(BLUE)","77.7500","15.7500","90","Colorless transparence -30﹎~+85﹎ Positive post Common anode RGB 120﹉ 0805  Light Emitting Diodes (LED) ROHS"
+"LED301","BLUE/2012","TopLayer","LED_MHT170RGBCT_(BLUE)","50.7500","20.0000","0","Colorless transparence -30﹎~+85﹎ Positive post Common anode RGB 120﹉ 0805  Light Emitting Diodes (LED) ROHS"
+"LED300","BLUE/2012","TopLayer","LED_MHT170RGBCT_(BLUE)","50.7500","17.7500","0","Colorless transparence -30﹎~+85﹎ Positive post Common anode RGB 120﹉ 0805  Light Emitting Diodes (LED) ROHS"
+"FB302","BLM15PX121SN1D","TopLayer","FB_1005_(0402_inch)","63.7430","11.5000","180","55m目 ▽25% 120目@100MHz 0402  Ferrite Beads ROHS"
+"FB301","BLM15PX121SN1D","TopLayer","FB_1005_(0402_inch)","39.5430","2.6000","180","55m目 ▽25% 120目@100MHz 0402  Ferrite Beads ROHS"
+"FB300","BLM15PX121SN1D","TopLayer","FB_1005_(0402_inch)","42.2500","12.4180","270","55m目 ▽25% 120目@100MHz 0402  Ferrite Beads ROHS"
+"ESD301","CG0402MLU-3.3G","TopLayer","RES_1005_(0402_inch)","71.3000","12.7000","180","Varistor 1 Circuit Surface Mount, MLCV 0402 (1005 Metric)"
+"ESD300","CG0402MLU-3.3G","TopLayer","RES_1005_(0402_inch)","68.6250","12.7000","0","Varistor 1 Circuit Surface Mount, MLCV 0402 (1005 Metric)"
+"D300","SS210","TopLayer","DIO_DO-214AC_(SMA)","58.8000","14.7000","90","100V 850mV@2A 2A SMA(DO-214AC)  Schottky Barrier Diodes (SBD) ROHS"
+"CN301","MC-311S","TopLayer","CON_USB-Type-C_(16P)","70.0000","16.6750","180","USB 2.0 5A 1 Surface Mount 16 Female -35﹎~+75﹎ Type-C SMD  USB Connectors ROHS"
+"C317","100nF/16V/1608","TopLayer","CAP_1608_(0603_INCH)","47.2500","8.3000","270","Ceramic CAP_100nF/16V/1608"
+"C316","100nF/16V/1608","TopLayer","CAP_1608_(0603_INCH)","74.0750","10.5000","180","Ceramic CAP_100nF/16V/1608"
+"C315","100nF/50V/1608","TopLayer","CAP_1608_(0603_INCH)","62.2500","17.0000","180","Ceramic CAP_100nF/50V/1608"
+"C314","4.7uF/16V/1608","TopLayer","CAP_1608_(0603_INCH)","25.1250","3.5000","0","Ceramic CAP_4.7uF/16V/1608"
+"C313","100nF/16V/1608","TopLayer","CAP_1608_(0603_INCH)","28.4000","3.5000","180","Ceramic CAP_100nF/16V/1608"
+"C312","100nF/16V/1608","TopLayer","CAP_1608_(0603_INCH)","61.5000","12.3920","270","Ceramic CAP_100nF/16V/1608"
+"C311","100nF/16V/1608","TopLayer","CAP_1608_(0603_INCH)","64.0000","13.0000","0","Ceramic CAP_100nF/16V/1608"
+"C310","100nF/16V/1608","TopLayer","CAP_1608_(0603_INCH)","39.8000","5.8000","180","Ceramic CAP_100nF/16V/1608"
+"C309","4.7uF/16V/1608","TopLayer","CAP_1608_(0603_INCH)","39.8000","4.1000","180","Ceramic CAP_4.7uF/16V/1608"
+"C308","100nF/16V/1608","TopLayer","CAP_1608_(0603_INCH)","32.0000","3.5000","180","Ceramic CAP_100nF/16V/1608"
+"C307","100nF/16V/1608","TopLayer","CAP_1608_(0603_INCH)","23.5000","8.8000","90","Ceramic CAP_100nF/16V/1608"
+"C306","100nF/16V/1608","TopLayer","CAP_1608_(0603_INCH)","29.1250","19.0000","180","Ceramic CAP_100nF/16V/1608"
+"C305","100nF/16V/1608","TopLayer","CAP_1608_(0603_INCH)","32.3250","19.0000","0","Ceramic CAP_100nF/16V/1608"
+"C304","100nF/16V/1608","TopLayer","CAP_1608_(0603_INCH)","40.7500","12.6750","270","Ceramic CAP_100nF/16V/1608"
+"C303","4.7uF/16V/1608","TopLayer","CAP_1608_(0603_INCH)","39.1000","12.6750","270","Ceramic CAP_4.7uF/16V/1608"
+"C302","100nF/16V/1608","TopLayer","CAP_1608_(0603_INCH)","36.1750","3.5000","180","Ceramic CAP_100nF/16V/1608"
+"C301","100nF/16V/1608","TopLayer","CAP_1608_(0603_INCH)","23.5000","14.1750","270","Ceramic CAP_100nF/16V/1608"
+"C300","100nF/16V/1608","TopLayer","CAP_1608_(0603_INCH)","39.1000","15.9250","270","Ceramic CAP_100nF/16V/1608"
