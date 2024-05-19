@@ -1,4 +1,4 @@
-Record=TopLevelDocument|FileName=01_Index.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=01_Index.SchDoc|FileName=02_Overview.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=01_Index.SchDoc|FileName=03_DC-DC_Converter.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=01_Index.SchDoc|FileName=04_Connector.SchDoc|SheetNumber=4
+Record=TopLevelDocument|FileName=01_Index_(Rev.B).SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=01_Index_(Rev.B).SchDoc|FileName=02_Overview.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=01_Index_(Rev.B).SchDoc|FileName=03_DC-DC_Converter.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=01_Index_(Rev.B).SchDoc|FileName=04_Connector.SchDoc|SheetNumber=4
